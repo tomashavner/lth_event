@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'lth_events'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_lthevents_event">LTH events</label>
+			<label index="tx_lthevents_event.event">Event</label>
+			<label index="tx_lthevents_event.start">Start</label>
+			<label index="tx_lthevents_event.end">End</label>
+			<label index="tx_lthevents_event.description">Description</label>
+			<label index="tx_lthevents_event.place">Place</label>
+			<label index="tx_lthevents_event.organizer">Organizer</label>
+			<label index="tx_lthevents_event.signup">Sign Up</label>
+			<label index="tt_content.list_type_pi1">LTH Events</label>
+		</languageKey>
+		<languageKey index="sv" type="array">
+			<label index="tx_lthevents_event">LTH events</label>
+			<label index="tx_lthevents_event.event">Event</label>
+			<label index="tx_lthevents_event.start">Start</label>
+			<label index="tx_lthevents_event.end">Slut</label>
+			<label index="tx_lthevents_event.description">Beskrivning</label>
+			<label index="tx_lthevents_event.place">Plats</label>
+			<label index="tx_lthevents_event.organizer">Arrangör</label>
+			<label index="tx_lthevents_event.signup">Anmälan</label>
+			<label index="tt_content.list_type_pi1">LTH Events</label>
+		</languageKey>
+	</data>
+</T3locallang>
